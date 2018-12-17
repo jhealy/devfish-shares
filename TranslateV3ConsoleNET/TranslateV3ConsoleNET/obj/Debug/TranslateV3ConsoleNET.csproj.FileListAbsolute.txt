@@ -1,0 +1,11 @@
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\obj\Debug\TranslateV3ConsoleNET.csprojAssemblyReference.cache
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\obj\Debug\TranslateV3ConsoleNET.csproj.CoreCompileInputs.cache
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\TranslateV3ConsoleNET.exe.config
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\TranslateV3ConsoleNET.exe
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\TranslateV3ConsoleNET.pdb
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\Newtonsoft.Json.dll
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\bin\Debug\Newtonsoft.Json.xml
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\obj\Debug\TranslateV3ConsoleNET.csproj.CopyComplete
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\obj\Debug\TranslateV3ConsoleNET.exe
+C:\dev\translate\v3\TranslateV3ConsoleNET\TranslateV3ConsoleNET\obj\Debug\TranslateV3ConsoleNET.pdb
