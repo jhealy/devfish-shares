@@ -1,0 +1,11 @@
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\bin\Release\netcoreapp2.0\privatemessagesender.deps.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\bin\Release\netcoreapp2.0\privatemessagesender.runtimeconfig.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\bin\Release\netcoreapp2.0\privatemessagesender.runtimeconfig.dev.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\bin\Release\netcoreapp2.0\privatemessagesender.dll
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\bin\Release\netcoreapp2.0\privatemessagesender.pdb
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.csprojAssemblyReference.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.csproj.CoreCompileInputs.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.AssemblyInfoInputs.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.AssemblyInfo.cs
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.dll
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagesender\obj\Release\netcoreapp2.0\privatemessagesender.pdb

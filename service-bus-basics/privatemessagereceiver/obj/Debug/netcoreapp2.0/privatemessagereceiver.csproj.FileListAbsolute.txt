@@ -1,0 +1,11 @@
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.deps.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.runtimeconfig.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.runtimeconfig.dev.json
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.dll
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\bin\Debug\netcoreapp2.0\privatemessagereceiver.pdb
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.csprojAssemblyReference.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.csproj.CoreCompileInputs.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.AssemblyInfoInputs.cache
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.AssemblyInfo.cs
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.dll
+C:\learn\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\start\privatemessagereceiver\obj\Debug\netcoreapp2.0\privatemessagereceiver.pdb
