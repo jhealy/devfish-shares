@@ -47,7 +47,6 @@ C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\POJSShell.TagHelpers
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\POJSShell.RazorCoreGenerate.cache
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\FlexGridListOutput.g.cshtml.cs
-C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\ListOutput.g.cshtml.cs
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\dev\devfish-shares.git\POJSShell\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LayoutListOutput.g.cshtml.cs

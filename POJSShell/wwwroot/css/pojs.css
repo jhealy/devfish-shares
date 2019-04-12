@@ -26,6 +26,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.buttonbar-button {
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -48,8 +54,9 @@ h1 {
 }
 
 .sidebar-button {
-    margin:5px;
+    margin:1px;
     padding: 5px;
+    width: 100px;
 }
 
 .flex-container {

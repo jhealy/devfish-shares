@@ -1,0 +1,4 @@
+The todo list:
+
+On serverside postback preserve the contents of the status area
+Serverside click to status area
