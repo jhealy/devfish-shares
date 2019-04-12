@@ -2,13 +2,27 @@
     margin: 0;
     padding: 0;
 }
-html, body { 
+html { 
     height:100%;
 }
+body {
+    min-height:100%; max-height:100%;
+}
 
-.container, .sideBar, .content {
+.content {
     height: 100%;
-    padding:10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonbar {
+    padding: 5px;
+    height: 40px;
+    max-width: 100%;
+    margin: 5px;
+    border-style: inset;
+    border-width: thin;
+    border-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -21,23 +35,54 @@ h1 {
     line-height: 50px;
 }
 
+.footer {
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .sideBar {
-    float: left;
-    width: 100px;
-    height:100%;
-    background: aqua;
-    top:1px;
-    bottom:0;
+    text-align: center;
+    height: 100%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar-button {
+    margin:5px;
+    padding: 5px;
 }
 
 .flex-container {
     display: flex;
+    height: 90vh;
+    margin: 5px;
+    border-style: inset;
+    border-width: thin;
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .flex-column {
     flex: 1;
+    padding: 5px;
+    border-style: inset;
+    border-width: thin;
+    border-color: black;
 }
+
 
 .fixed-column {
     width: 200px;
+    padding: 5px;
+}
+
+.textarea_target {
+box-sizing: border-box; 
+height:98%;
+border-style: inset;
+border-width: thin;
+padding:10px;
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:yellow;
 }
