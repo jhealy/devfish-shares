@@ -1,0 +1,43 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+html, body { 
+    height:100%;
+}
+
+.container, .sideBar, .content {
+    height: 100%;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    height: 50px;
+    line-height: 50px;
+}
+
+.sideBar {
+    float: left;
+    width: 100px;
+    height:100%;
+    background: aqua;
+    top:1px;
+    bottom:0;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-column {
+    flex: 1;
+}
+
+.fixed-column {
+    width: 200px;
+}

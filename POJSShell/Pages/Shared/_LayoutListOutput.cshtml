@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - POJSShell</title>
+    <link rel="stylesheet" href="~/css/pojs.css" />
+</head>
+<body>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container" style="padding: 5px;">
+            &copy; 2019 - POJSShell - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
