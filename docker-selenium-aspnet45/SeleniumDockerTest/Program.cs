@@ -82,8 +82,6 @@ namespace SeleniumDockerTest
             {
                 Console.WriteLine("!!!error:" + ex.ToString());
             }
-
-            return;
         }
 
         static public bool CheckWebElements(string msg, IWebDriver driver)
@@ -176,8 +174,6 @@ namespace SeleniumDockerTest
                 Console.WriteLine("!!!error:" + ex.ToString());
             }
             Console.WriteLine("firefox tests completed");
-
-            return;
         }
 
     }

@@ -1,5 +1,9 @@
 # The `FROM` instruction specifies the base image. We are extending the `microsoft/aspnet` image.
-FROM microsoft/aspnet
+# FROM microsoft/aspnet
+FROM mcr.microsoft.com/dotnet/framework/aspnet:4.8
+
+# EXPOSE 49247
+# this will keep ff browser from starting in container - no bueno
 
 # EASY ACCESS TO TEST CHANGES
 # Need to mount it in the post run actions
@@ -26,6 +30,8 @@ COPY ./assets/geckodriver-v0.24.0-win64/ /seleniumtests
 # feeble attempt, faster than choco
 # COPY ./assets/GoogleChromeEnterpriseBundle64/Installers /seleniumtests/assets
 COPY ./assets/firefox /seleniumtests/assets
+
+RUN [ "c:/seleniumtests/assets/firefox_setup_66.0.3.exe", "-ms"]
 
 # choco chrome takes a bit
 # RUN echo 'Downloading chocolatey...'
