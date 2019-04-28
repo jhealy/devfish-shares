@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# specific project assets
+docker-selenium-aspnet45/assets
+
 # User-specific files
 *.rsuser
 *.suo
